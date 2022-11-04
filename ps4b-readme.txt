@@ -1,11 +1,18 @@
 /**********************************************************************
  *                                                  
- *  PS3b: StringSound implementation and SFML audio output 
+ *  PS4b: StringSound implementation and SFML audio output 
  **********************************************************************/
 
 Name: Michael Chagnon
 
 Hours to complete assignment : 12 hrs
+
+/**********************************************************************
+ *  How to run program
+ **********************************************************************/
+To run the program make first. Then use ./KSGuitarSim to run executable. SFML window will pop up,
+use keyboard to plays notes.
+ 
 
 /**********************************************************************
  *  Did you complete the whole assignment?
