@@ -18,12 +18,6 @@ KSGuitarSim.cpp in the desired way. Instead I replicated the method used in SSLi
 
 
 /**********************************************************************
- *  Did you attempt the extra credit parts? Which one(s)?
- *  Successfully or not?  
- **********************************************************************/
-No
-
-/**********************************************************************
  *  Did you implement exseptions to check your StringSound 
  *	implementation?
  *  Indicate yes or no, and explain how you did it.
@@ -34,17 +28,11 @@ size of the CircularBuffer wnd arrays can't be <= 0.
 
 
 /**********************************************************************
- *  Did you implement lambda expression?
- *  Indicate yes or no, and explain how you did it.
- **********************************************************************/
-No
-
-
-/**********************************************************************
  *  Did your code pass cpplint?
  *  Indicate yes or no, and explain how you did it.
  **********************************************************************/
 Yes, I just ran lint on my code and fix the errors accordingly
+
 
 /**********************************************************************
  *  List whatever help (if any) you received from TAs,
@@ -53,13 +41,3 @@ Yes, I just ran lint on my code and fix the errors accordingly
 Went to Tutoring and a TA helped me figure out that in my CircularBuffer constructor
 the size wasn't created dynamically, so I fixed that
 
-
-/**********************************************************************
- *  Describe any serious problems you encountered.                    
- **********************************************************************/
-NA
-
-/**********************************************************************
- *  List any other comments here.                                     
- **********************************************************************/
- NA
